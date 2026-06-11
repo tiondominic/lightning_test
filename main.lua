@@ -9,7 +9,7 @@ function love.load()
 end
 
 function love.update(dt)
-    -- S:update(dt)
+    S:update(dt)
 
 end
 
